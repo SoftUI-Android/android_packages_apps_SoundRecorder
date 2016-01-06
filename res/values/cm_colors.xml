@@ -15,8 +15,8 @@
      limitations under the License.
 -->
 <resources>
-    <color name="material_primary">#F44336</color>
-    <color name="material_dark">#E53935</color>
+    <color name="material_primary">#e91e63</color>
+    <color name="material_dark">#e91e63</color>
     <color name="bottom_bar_background">@color/material_primary</color>
     <color name="button_background_pressed_color">#1a000000</color>
     <color name="button_background_focused_color">#77000000</color>
